@@ -15,7 +15,7 @@ public class driver {
 		String Carrier;
 		
 		
-		// Make a scanner and called it s
+		// Make a scanner and called it s 
 		Scanner s = new Scanner(System.in); // THE SCANNER IS NAME ---> s <---
 		
 
